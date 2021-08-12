@@ -34,7 +34,7 @@ pkg install ruby -y
 
 git clone https://github.com/John-kener/Beta-Installer
 
-cd Fb-Hack
+cd Beta-Installer
 
 ruby requirements.rb
 
