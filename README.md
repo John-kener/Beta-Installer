@@ -16,6 +16,7 @@
 ### Tested On Termux (Linux Environment)
 ##### May not work on devices which has less android version than 7.0 
 <br>
+
 ### AVAILABLE ITEMS TO INSTALL
 
 ❏ Termux Basic Pakages <br>
@@ -45,8 +46,7 @@ ruby Beta-installer.rb
 * Data Charges may apply
 * Good Network Connection is needed
 
-
-
-
+<br>
+<br>
 <h6>Copyrights Reserved By John-kener -2021</h6>
 <h6>As this is a shortcut way for some installations the real repository owners will get their copyrights ownership</h6>
