@@ -1,6 +1,4 @@
-# Beta-Installer
 
-<hr>
 <h1><p align= "center"> Beta Installer </p></h1>
 <h4><p align = "center">Tool By John Kener <p><h4>
 <p align= "center">
@@ -9,24 +7,20 @@
 </p>
 <br />
 <hr />
-<hr />
 <p align="center">
-<img src="https://github.com/John-kener/Fb-Hack/blob/main/😐.jpg" alt="Tool Pic" width="200" height="220"/>
+<img src="https://github.com/John-kener/Beta-Installer/blob/main/beta-installer.jpg" alt="Tool Pic" width="210" height="220"/>
 </p>
 </div>
 <hr>
 
-## Tested On Termux (Linux Environment)
+### Tested On Termux (Linux Environment)
 ##### May not work on devices which has less android version than 7.0 
 <br>
+### AVAILABLE ITEMS TO INSTALL
 
-## AVAILABLE ITEMS TO INSTALL
-
-❏ Termux Basic Pakages
-
-❏ Metasploit
-
-❏ Kali ( Termux root access )
+❏ Termux Basic Pakages <br>
+❏ Metasploit <br>
+❏ Kali ( Termux root access )<br>
 
 
 ## $ Commands
@@ -48,10 +42,11 @@ ruby Beta-installer.rb
 ```
 
 ## Instructions
-
+* Data Charges may apply
 * Good Network Connection is needed
 
 
 
 
 <h6>Copyrights Reserved By John-kener -2021</h6>
+<h6>As this is a shortcut way for some installations the real repository owners will get their copyrights ownership</h6>
